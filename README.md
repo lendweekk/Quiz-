@@ -1,4 +1,4 @@
-# Quiz-
+# Quiz
 
 This project was created while taking a JavaScript course! 
 
